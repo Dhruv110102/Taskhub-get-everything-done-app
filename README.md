@@ -1,6 +1,6 @@
 # To-do App in Flutter
 
-A to-do app based on [Jae-seong Jeong's iPhone X Todo App Concept](https://www.uplabs.com/posts/iphone-x-todo-concept)
+A to-do app based on [group 9 iPhone X Todo App Concept](https://www.uplabs.com/posts/iphone-x-todo-concept)
 
 Current preview: ![preview](preview.png)
 
